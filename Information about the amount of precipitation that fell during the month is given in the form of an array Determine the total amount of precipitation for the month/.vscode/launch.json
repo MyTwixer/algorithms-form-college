@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/ihorb/Desktop/code/algorithms-form-college/Information about the amount of precipitation that fell during the month is given in the form of an array Determine the total amount of precipitation for the month",
+      "program": "c:/Users/ihorb/Desktop/code/algorithms-form-college/Information about the amount of precipitation that fell during the month is given in the form of an array Determine the total amount of precipitation for the month/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
